@@ -91,3 +91,11 @@ SELECT *FROM product
 WHERE year BETWEEN 2005 and 2010;
 ~~~
 
+
+### ORDER BY SYNTAX
+- Used in sorting data in a table
+~~~
+SELECT *FROM customer_Details
+ORDER BY name;
+~~~
+We can use descendind(DESC) or ascending(ASC)
