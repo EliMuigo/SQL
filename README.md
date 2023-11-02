@@ -99,3 +99,5 @@ SELECT *FROM customer_Details
 ORDER BY name;
 ~~~
 We can use descendind(DESC) or ascending(ASC)
+
+### basic 
